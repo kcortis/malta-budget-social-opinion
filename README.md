@@ -20,14 +20,14 @@ Each online post contains the following metadata and annotation types:
 ## Licenses
 The dataset is licensed under the [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)](https://creativecommons.org/licenses/by-nc-sa/4.0/) license.
 
-Please cite [Cortis et al. 2019](http://noisy-text.github.io/2019/accepted/74.html) in all publications using this dataset (see References below).
+Please cite [Cortis et al. 2019](https://www.aclweb.org/anthology/D19-55.pdf) in all publications using this dataset (see References below).
 
 ## References
 @inproceedings{Cortis2019,\
   title={A Social Opinion Gold Standard for the Malta Government Budget 2018},\
   author={Cortis, Keith and Davis, Brian},\
-  booktitle={Proceedings of the 5th Workshop on Noisy User-generated Text (W-NUT)},\
-  pages={abc--def},\
+  booktitle={Proceedings of the Fifth Workshop on Noisy User-generated Text (W-NUT 2019)},\
+  pages={364--369},\
   year={2019}\
 }
 
