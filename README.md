@@ -20,7 +20,7 @@ Each online post contains the following metadata and annotation types:
 ## Licenses
 The dataset is licensed under the [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)](https://creativecommons.org/licenses/by-nc-sa/4.0/) license.
 
-Please cite [Cortis et al. 2019](https://www.aclweb.org/anthology/D19-55.pdf) in all publications using this dataset (see References below).
+Please cite [Cortis et al. 2019](https://www.aclweb.org/anthology/D19-5547/) in all publications using this dataset (see References below).
 
 ## References
 @inproceedings{Cortis2019,\
