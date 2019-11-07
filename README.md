@@ -31,7 +31,7 @@ Please cite [Cortis et al. 2019](https://www.aclweb.org/anthology/D19-5547/) in 
   year = "2019",\
   address = "Hong Kong, China",\
   publisher = "Association for Computational Linguistics",\
-  url = "https://www.aclweb.org/anthology/D19-5547",\
+  url = "https://www.aclweb.org/anthology/D19-5547", \
   doi = "10.18653/v1/D19-5547",\
   pages = "364--369"\
 }
