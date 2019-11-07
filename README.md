@@ -24,11 +24,17 @@ Please cite [Cortis et al. 2019](https://www.aclweb.org/anthology/D19-5547/) in 
 
 ## References
 @inproceedings{Cortis2019,\
-  title={A Social Opinion Gold Standard for the Malta Government Budget 2018},\
-  author={Cortis, Keith and Davis, Brian},\
-  booktitle={Proceedings of the Fifth Workshop on Noisy User-generated Text (W-NUT 2019)},\
-  pages={364--369},\
-  year={2019}\
+  title = "A Social Opinion Gold Standard for the Malta Government Budget 2018",\
+    author = "Cortis, Keith and Davis, Brian",\
+    booktitle = "Proceedings of the 5th Workshop on Noisy User-generated Text (W-NUT 2019)",\
+    month = nov,\
+    year = "2019",\
+    address = "Hong Kong, China",\
+    publisher = "Association for Computational Linguistics",\
+    url = "https://www.aclweb.org/anthology/D19-5547",\
+    doi = "10.18653/v1/D19-5547",\
+    pages = "364--369",\
+    abstract = "We present a gold standard of annotated social opinion for the Malta Government Budget 2018. It consists of over 500 online posts in English and/or the Maltese less-resourced language, gathered from social media platforms, specifically, social networking services and newswires, which have been annotated with information about opinions expressed by the general public and other entities, in terms of sentiment polarity, emotion, sarcasm/irony, and negation. This dataset is a resource for opinion mining based on social data, within the context of politics. It is the first opinion annotated social dataset from Malta, which has very limited language resources available.",
 }
 
 
